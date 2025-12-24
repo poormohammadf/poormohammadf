@@ -1,4 +1,4 @@
-<h1 align="center">Fatemeh Poormohammad</h1>
+<h1 align="center">🐞 Fatemeh Poormohammad</h1>
 <h3 align="center">Software Development Analyst • R&D Enthusiast • System Thinker</h3>
 
 <p align="center">
