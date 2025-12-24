@@ -73,10 +73,6 @@ I’m interested in:
 - Systems that require both **analysis & engineering**  
 - Projects where quality, clarity, and scalability matter  
 
-📌 **LinkedIn:** https://www.linkedin.com/in/fatemeh-poormohammad-983b8a69/  
-🌐 **Portfolio:** https://poormohammadf.github.io/  
-📧 **Email:** poormohammadf@gmail.com  
-
 ---
 
 <p align="center">
