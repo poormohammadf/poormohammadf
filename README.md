@@ -44,7 +44,7 @@ I enjoy working at the intersection of **analysis, architecture, and implementat
 ## 🛠 Tech Stack
 
 **Languages**  
-PHP • JavaScript • Python  
+Node • JavaScript • Python  • PHP  
 
 **Frontend**  
 Vue.js  
